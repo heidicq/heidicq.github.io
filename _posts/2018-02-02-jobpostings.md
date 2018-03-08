@@ -2,7 +2,7 @@
 layout: post
 title: "Web Scraping Job Postings"
 date: 2018-02-02
-excerpt: "Web scraping job postings on Indeed.com.sg to determine factors that are most important in predicting salaries for data science related jobs."
+excerpt: "Web scraping job postings on Indeed.com.sg to determine factors that are most important in predicting salaries for data science related jobs. General Assembly - Data Science Immersive Project 4."
 project: true
 tags: [nlp, web scraping, regression, classification]
 comments: true
